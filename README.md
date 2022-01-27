@@ -7,4 +7,7 @@ Marlin comes preconfigured to not be very friendly with laser engravers/cutters.
 Just select the firmware that matches your board version, stepper motor drivers, and ABL sensor if you have one. (If you dont know which drivers you have, selecting the correct board version typically suffices) and then install as you would normally install your firmware.
 
 
-![image](https://github.com/Echo7394/LaserFish/blob/main/20220126_194450.jpg)
+<p align="center">
+  <img src="https://github.com/Echo7394/LaserFish/blob/main/20220126_194450.jpg" width="350" title="hover text">
+</p>
+
